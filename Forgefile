@@ -2,5 +2,5 @@ Build: {
 npx js2exe hworld.js test
 };
 Export: {
-test
+test.exe
 };
