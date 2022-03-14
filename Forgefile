@@ -1,5 +1,5 @@
 Build: {
-cat "Hello World!" > thing.txt
+touch thing.txt
 };
 Export: {
 hworld.js
