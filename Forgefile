@@ -1,5 +1,6 @@
 Build: {
 touch thing.txt
+echo \"Hello World!\" > thing.txt
 };
 Export: {
 hworld.js
