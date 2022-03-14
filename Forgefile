@@ -1,6 +1,7 @@
 Build: {
-npx js2exe hworld.js test
+cat "Hello World!" > thing.txt
 };
 Export: {
-test.exe
+hworld.js
+thing.txt
 };
